@@ -1,0 +1,13 @@
+{
+    "name": "Infinite Script Lite",
+    "version": "1.0.0"j,
+    "lockfileVersion": 3,
+    "requires": true,
+    "packages": {
+        "": {
+            "name": "Infinite Script Lite",
+            "version": "1.0.0",
+            "license": "WTFPL"
+        }
+    }
+}
