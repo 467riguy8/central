@@ -20,10 +20,10 @@
             The list does not have to be ordered in any way but for the
             sake of simplicity we will order this list alphanumerically.
         */
-        "1v1.LOL": {
-            "path": "1v1-lol",
+        "A small world cup": {
+            "path": "a-small-world-cup",
             "aliases": [],
-            "categories": ["online", "battle"]
+            "categories": ["fun", "soccer"]
         },
         "10 minutes till dawn": {
             "path": "10-minutes-till-dawn",
