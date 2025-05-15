@@ -65,10 +65,10 @@
             "aliases": [],
             "categories": []
         },
-        "Ages of Conflict": {
-            "path": "ages-of-conflict",
+        "BitLife": {
+            "path": "BitLife",
             "aliases": [],
-            "categories": ["escape"]
+            "categories": ["Life"]
         },
         "Age of War": {
             "path": "flash/?game=age-of-war",
