@@ -55,10 +55,10 @@
             "aliases": [],
             "categories": []
         },
-        "Abandoned": {
-            "path": "abandoned",
+        "2048 cupcakes": {
+            "path": "2048-cupcakes",
             "aliases": [],
-            "categories": ["escape"]
+            "categories": [""]
         },
         "Abandoned 2": {
             "path": "abandoned-2",
