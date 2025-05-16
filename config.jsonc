@@ -71,7 +71,7 @@
             "categories": ["Life"]
         },
         "Age of War": {
-            "path": "flash/?game=age-of-war",
+            "path": "age-of-war",
             "aliases": [],
             "categories": []
         },
